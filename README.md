@@ -284,9 +284,9 @@ I would like to thank...
 
 
 
-<!-- FAQ (optional) -->**[added new html]**
-- [ ] **[added new css]**
-- [ ] **[new_feature_3]**
+<!-- FAQ (optional) -->
+- [ added new css] 
+- [added new html ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
