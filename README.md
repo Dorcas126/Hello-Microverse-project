@@ -221,68 +221,35 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
-
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-
-
 Contributions, issues, and feature requests are welcome!
-
-
 
 Feel free to check the [issues page](../../issues/).
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- SUPPORT -->
 
-
-
 ## ⭐️ Show your support <a name="support"></a>
-
-
 
 > Write a message to encourage readers to support your project
 
-
-
 If you like this project...
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
 
 > Give credit to everyone who inspired your codebase.
 
-
-
 I would like to thank...
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- FAQ (optional) -->
 - [ added new css] 
